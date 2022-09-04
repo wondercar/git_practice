@@ -1,7 +1,0 @@
-hello git!hello atguigu!
-this is branch2 insert new content
-this is master content,now didn't merge.
-this is branch2 commit new content
-你干嘛 哎哟
-ikun
-小黑子露出了鸡脚是吧？
